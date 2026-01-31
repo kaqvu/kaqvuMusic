@@ -55,7 +55,7 @@
 | `help` | - | Displays the command list and usage. |
 | `list` | - | Shows all available MP3 files in your library. |
 | `history` | - | Displays the 3 most recently played songs. |
-| `play` | `<file|last> [count|infinity]` | Starts playing. Use `last` for the previous song. |
+| `play` | `<file \| last> [count \| infinity]` | Starts playing. Use `last` for the previous song. |
 | `pause` | - | Pauses the current track. |
 | `resume` | - | Resumes from where you left off. |
 | `stop` | - | Completely stops playback. |
